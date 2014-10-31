@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/ShareSDK.cs">
+    <Files>
+      <File FileName="../ScreenShot_01/Assets/Plugins/test.cs" Line="12" Column="2" />
+      <File FileName="Assets/Plugins/ShareSDK.cs" Line="164" Column="3" />
+      <File FileName="../sh/Assets/test.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
